@@ -1,0 +1,6 @@
+# Bernouli Numbers 
+
+# Import Libraries 
+
+
+
